@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-24T23:08:54.586Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="LY3q6_2O76s0gd9-ofMB" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-24T23:17:34.908Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="eMzgW1Vx23UOyBY2O5w8" version="15.8.3" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="950" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -66,6 +66,45 @@
           <mxGeometry x="-0.046" relative="1" as="geometry">
             <mxPoint x="250" y="340" as="sourcePoint" />
             <mxPoint x="130" y="340" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-QbBUhnHh0stN4CiP214-21" value="Sensore NFC" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="60" width="100" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="-QbBUhnHh0stN4CiP214-22" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="-QbBUhnHh0stN4CiP214-21">
+          <mxGeometry x="45" y="80" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-QbBUhnHh0stN4CiP214-23" value="Lettura  sensore NFC" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=0;entryY=0.18;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="-QbBUhnHh0stN4CiP214-22">
+          <mxGeometry x="-0.046" relative="1" as="geometry">
+            <mxPoint x="680" y="149" as="sourcePoint" />
+            <mxPoint x="680" y="160" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-QbBUhnHh0stN4CiP214-24" value="Server Web" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="60" width="100" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="-QbBUhnHh0stN4CiP214-25" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="-QbBUhnHh0stN4CiP214-24">
+          <mxGeometry x="45" y="150" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-QbBUhnHh0stN4CiP214-27" value="Cellulare" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="60" width="100" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="-QbBUhnHh0stN4CiP214-28" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="-QbBUhnHh0stN4CiP214-27">
+          <mxGeometry x="45" y="70" width="10" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-QbBUhnHh0stN4CiP214-26" value="Registrare lettura" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=0.08;entryY=0.236;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.1;exitY=0.928;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-QbBUhnHh0stN4CiP214-28" target="-QbBUhnHh0stN4CiP214-25">
+          <mxGeometry x="-0.046" relative="1" as="geometry">
+            <mxPoint x="795" y="170.5" as="sourcePoint" />
+            <mxPoint x="900" y="171" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-QbBUhnHh0stN4CiP214-29" value="ID sensore" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=1.167;entryY=0.544;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.033;exitY=0.793;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-QbBUhnHh0stN4CiP214-22" target="-QbBUhnHh0stN4CiP214-28">
+          <mxGeometry x="-0.046" relative="1" as="geometry">
+            <mxPoint x="770" y="170" as="sourcePoint" />
+            <mxPoint x="1065" y="170" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
