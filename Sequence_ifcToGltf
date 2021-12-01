@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-12-01T01:38:31.839Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="hQnKRMAGSLymXPvyunsG" version="15.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-01T01:39:31.519Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="nwV0XCy41r-3EqfnN4-_" version="15.8.8" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="950" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WXHNtSt7XvwDRMSDLX40-55" value="Tag" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="500" width="100" height="480" as="geometry" />
+        <mxCell id="WXHNtSt7XvwDRMSDLX40-55" value="Tags" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="500" width="100" height="380" as="geometry" />
         </mxCell>
         <mxCell id="WXHNtSt7XvwDRMSDLX40-56" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WXHNtSt7XvwDRMSDLX40-55">
           <mxGeometry x="45" y="70" width="9.52" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WXHNtSt7XvwDRMSDLX40-33" value="Cellulare Esperto&#xa;Cantiere" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="500" width="100" height="480" as="geometry" />
+          <mxGeometry x="170" y="500" width="100" height="380" as="geometry" />
         </mxCell>
         <mxCell id="WXHNtSt7XvwDRMSDLX40-34" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WXHNtSt7XvwDRMSDLX40-33">
           <mxGeometry x="45" y="70" width="9.52" height="50" as="geometry" />
@@ -340,7 +340,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WXHNtSt7XvwDRMSDLX40-20" value="HoloLens" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="500" width="100" height="480" as="geometry" />
+          <mxGeometry x="290" y="500" width="100" height="380" as="geometry" />
         </mxCell>
         <mxCell id="WXHNtSt7XvwDRMSDLX40-21" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WXHNtSt7XvwDRMSDLX40-20">
           <mxGeometry x="45" y="130" width="9.52" height="230" as="geometry" />
@@ -393,7 +393,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WXHNtSt7XvwDRMSDLX40-27" value="Applicazione web" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="500" width="100" height="480" as="geometry" />
+          <mxGeometry x="430" y="500" width="100" height="380" as="geometry" />
         </mxCell>
         <mxCell id="WXHNtSt7XvwDRMSDLX40-28" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WXHNtSt7XvwDRMSDLX40-27">
           <mxGeometry x="45" y="160" width="10" height="40" as="geometry" />
