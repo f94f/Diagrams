@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T08:22:36.067Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="YQqh-F8wuWZsWHNRHbUT" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-24T08:27:53.881Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="9RjGtmPvABUGQpVuVCvc" version="20.6.0" type="github">
   <diagram id="YYdmfMmHKFKd6aKUU76Y" name="Page-1">
     <mxGraphModel dx="1749" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="f8Zw-Bb1OCc7IDSp_8TN-6" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=130;tabHeight=30;tabPosition=left;html=1;" parent="1" vertex="1">
-          <mxGeometry x="10" y="10" width="430" height="660" as="geometry" />
+          <mxGeometry x="10" y="10" width="400" height="910" as="geometry" />
         </mxCell>
         <mxCell id="f8Zw-Bb1OCc7IDSp_8TN-1" value="Server Interno" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="100" width="250" height="230" as="geometry" />
@@ -90,6 +90,26 @@
         </mxCell>
         <mxCell id="4A7A6q4YwICknP0THt5P-11" value="AWS Backup" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
           <mxGeometry x="1700" y="430" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="4A7A6q4YwICknP0THt5P-12" value="QNAP" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="690" width="250" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="4A7A6q4YwICknP0THt5P-15" value="Backup Oracle" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="120" y="740" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4A7A6q4YwICknP0THt5P-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="f8Zw-Bb1OCc7IDSp_8TN-17" target="4A7A6q4YwICknP0THt5P-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="580" as="sourcePoint" />
+            <mxPoint x="720" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="750" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4A7A6q4YwICknP0THt5P-21" value="Invio Manuale dei dati" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4A7A6q4YwICknP0THt5P-20">
+          <mxGeometry x="-0.3644" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
