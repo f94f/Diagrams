@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T08:16:38.242Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="q9Q4GHdhFTn21eRfYg0C" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-24T08:22:36.067Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="YQqh-F8wuWZsWHNRHbUT" version="20.6.0" type="github">
   <diagram id="YYdmfMmHKFKd6aKUU76Y" name="Page-1">
     <mxGraphModel dx="1749" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -64,20 +64,32 @@
         <mxCell id="4A7A6q4YwICknP0THt5P-2" value="Amazon" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1090" y="35" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4A7A6q4YwICknP0THt5P-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=100;entryDy=240;entryPerimeter=0;" edge="1" parent="1" source="4A7A6q4YwICknP0THt5P-3" target="4A7A6q4YwICknP0THt5P-5">
+        <mxCell id="4A7A6q4YwICknP0THt5P-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=50;entryDy=170;entryPerimeter=0;" edge="1" parent="1" source="4A7A6q4YwICknP0THt5P-3" target="4A7A6q4YwICknP0THt5P-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4A7A6q4YwICknP0THt5P-3" value="Server" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
+        <mxCell id="4A7A6q4YwICknP0THt5P-3" value="VM Server" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
           <mxGeometry x="1210" y="125" width="270" height="245" as="geometry" />
         </mxCell>
-        <mxCell id="4A7A6q4YwICknP0THt5P-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4A7A6q4YwICknP0THt5P-4" target="4A7A6q4YwICknP0THt5P-5">
+        <mxCell id="4A7A6q4YwICknP0THt5P-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.458;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4A7A6q4YwICknP0THt5P-4" target="4A7A6q4YwICknP0THt5P-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4A7A6q4YwICknP0THt5P-4" value="Postgres" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
+        <mxCell id="4A7A6q4YwICknP0THt5P-4" value="VM DB" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
           <mxGeometry x="1210" y="410" width="270" height="260" as="geometry" />
         </mxCell>
         <mxCell id="4A7A6q4YwICknP0THt5P-5" value="AWS Backup" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1690" y="270" width="240" height="190" as="geometry" />
+          <mxGeometry x="1690" y="155" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="4A7A6q4YwICknP0THt5P-8" value="Nuovo Gestionale" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="190" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4A7A6q4YwICknP0THt5P-9" value="Postgres" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="500" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4A7A6q4YwICknP0THt5P-10" value="Tomcat" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="280" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4A7A6q4YwICknP0THt5P-11" value="AWS Backup" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="430" width="200" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
