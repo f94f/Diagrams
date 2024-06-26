@@ -1,1 +1,1 @@
-[]
+[{"url":"http://127.0.0.1:8000/nfcreader/2/?format=json","serial":"2","id_ifc":"0QPxwZP9PErxBxlBM_QXPG","tag":"http://127.0.0.1:8000/nfctag/2/?format=json","user_detail":"http://127.0.0.1:8000/user_detail/1/?format=json","created_at":"2024-06-26T10:09:35.982065Z"},{"url":"http://127.0.0.1:8000/nfcreader/1/?format=json","serial":"1","id_ifc":"0QPxwZP9PErxBxlBM_QXOm","tag":"http://127.0.0.1:8000/nfctag/1/?format=json","user_detail":"http://127.0.0.1:8000/user_detail/1/?format=json","created_at":"2024-06-26T10:07:33.454956Z"}]
