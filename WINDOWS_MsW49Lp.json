@@ -1,0 +1,6276 @@
+{
+  "geometryExporterVersion": "1.2",
+  "uniZiteMetadataExporterVersion": "1.2",
+  "ifcSchemaVersion": "ifc2x3",
+  "elements": [
+    {
+      "ifcSystemIndex": 0,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "M_Rectangular to Round Transition - Angle:45 Degree"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowFitting",
+      "ifcGuid": "1CDrloTIv6OfT6JLKHlQe3",
+      "ifcEntityLabel": 13439,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "M_Rectangular to Round Transition - Angle:45 Degree:954220"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "M_Rectangular to Round Transition - Angle:45 Degree"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 0,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "M_Rectangular to Round Transition - Angle:45 Degree"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowFitting",
+      "ifcGuid": "1CDrloTIv6OfT6JLKHlQhj",
+      "ifcEntityLabel": 17609,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "M_Rectangular to Round Transition - Angle:45 Degree:954242"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "M_Rectangular to Round Transition - Angle:45 Degree"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 0,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "M_Rectangular to Round Transition - Angle:45 Degree"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowFitting",
+      "ifcGuid": "1CDrloTIv6OfT6JLKHlQhi",
+      "ifcEntityLabel": 17711,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "M_Rectangular to Round Transition - Angle:45 Degree:954243"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "M_Rectangular to Round Transition - Angle:45 Degree"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 0,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "M_Rectangular Elbow - Radius:1.5 W"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowFitting",
+      "ifcGuid": "1CDrloTIv6OfT6JLKHlQha",
+      "ifcEntityLabel": 18262,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "M_Rectangular Elbow - Radius:1.5 W:954251"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "M_Rectangular Elbow - Radius:1.5 W"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 0,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "M_Rectangular Tee:Standard"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowFitting",
+      "ifcGuid": "1CDrloTIv6OfT6JLKHlQhX",
+      "ifcEntityLabel": 18421,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "M_Rectangular Tee:Standard:954254"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "M_Rectangular Tee:Standard"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 0,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "M_Rectangular Transition - Angle:45 Degree"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowFitting",
+      "ifcGuid": "1CDrloTIv6OfT6JLKHlQhz",
+      "ifcEntityLabel": 18567,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "M_Rectangular Transition - Angle:45 Degree:954258"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "M_Rectangular Transition - Angle:45 Degree"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "M_Rectangular to Round Transition - Angle:45 Degree"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowFitting",
+      "ifcGuid": "1CDrloTIv6OfT6JLKHlRGo",
+      "ifcEntityLabel": 21366,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "M_Rectangular to Round Transition - Angle:45 Degree:954717"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "M_Rectangular to Round Transition - Angle:45 Degree"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "M_Rectangular to Round Transition - Angle:45 Degree"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowFitting",
+      "ifcGuid": "1CDrloTIv6OfT6JLKHlRG7",
+      "ifcEntityLabel": 24295,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "M_Rectangular to Round Transition - Angle:45 Degree:954728"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "M_Rectangular to Round Transition - Angle:45 Degree"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "M_Rectangular to Round Transition - Angle:45 Degree"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowFitting",
+      "ifcGuid": "1CDrloTIv6OfT6JLKHlRG6",
+      "ifcEntityLabel": 24397,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "M_Rectangular to Round Transition - Angle:45 Degree:954729"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "M_Rectangular to Round Transition - Angle:45 Degree"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "M_Rectangular Elbow - Radius:1.5 W"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowFitting",
+      "ifcGuid": "1CDrloTIv6OfT6JLKHlRG5",
+      "ifcEntityLabel": 24549,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "M_Rectangular Elbow - Radius:1.5 W:954730"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "M_Rectangular Elbow - Radius:1.5 W"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "M_Rectangular to Round Transition - Angle:45 Degree"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowFitting",
+      "ifcGuid": "1CDrloTIv6OfT6JLKHlRGR",
+      "ifcEntityLabel": 26941,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "M_Rectangular to Round Transition - Angle:45 Degree:954740"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "M_Rectangular to Round Transition - Angle:45 Degree"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "M_Rectangular to Round Transition - Angle:45 Degree"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowFitting",
+      "ifcGuid": "1CDrloTIv6OfT6JLKHlRGQ",
+      "ifcEntityLabel": 27043,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "M_Rectangular to Round Transition - Angle:45 Degree:954741"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "M_Rectangular to Round Transition - Angle:45 Degree"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "M_Rectangular Tee:Standard"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowFitting",
+      "ifcGuid": "1CDrloTIv6OfT6JLKHlRGJ",
+      "ifcEntityLabel": 27380,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "M_Rectangular Tee:Standard:954748"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "M_Rectangular Tee:Standard"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "M_Rectangular Transition - Angle:45 Degree"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowFitting",
+      "ifcGuid": "1CDrloTIv6OfT6JLKHlRGH",
+      "ifcEntityLabel": 27503,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "M_Rectangular Transition - Angle:45 Degree:954750"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "M_Rectangular Transition - Angle:45 Degree"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "M_Rectangular Transition - Angle:45 Degree"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowFitting",
+      "ifcGuid": "1CDrloTIv6OfT6JLKHlRJl",
+      "ifcEntityLabel": 27652,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "M_Rectangular Transition - Angle:45 Degree:954752"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "M_Rectangular Transition - Angle:45 Degree"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "M_Rectangular Transition - Angle:45 Degree"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowFitting",
+      "ifcGuid": "1CDrloTIv6OfT6JLKHlRJj",
+      "ifcEntityLabel": 27825,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "M_Rectangular Transition - Angle:45 Degree:954754"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "M_Rectangular Transition - Angle:45 Degree"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "M_Rectangular Tee:Standard"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowFitting",
+      "ifcGuid": "1CDrloTIv6OfT6JLKHlRJh",
+      "ifcEntityLabel": 27980,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "M_Rectangular Tee:Standard:954756"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "M_Rectangular Tee:Standard"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 0,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "M_Rectangular to Round Transition - Angle:45 Degree"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowFitting",
+      "ifcGuid": "1CDrloTIv6OfT6JLKHlR10",
+      "ifcEntityLabel": 28083,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "M_Rectangular to Round Transition - Angle:45 Degree:955695"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "M_Rectangular to Round Transition - Angle:45 Degree"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "M_Rectangular to Round Transition - Angle:45 Degree"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowFitting",
+      "ifcGuid": "00UbEiXDPD9w_z0iri9nuT",
+      "ifcEntityLabel": 99738,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "M_Rectangular to Round Transition - Angle:45 Degree:1011254"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "M_Rectangular to Round Transition - Angle:45 Degree"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 0,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "M_Rectangular Elbow - Radius:1.5 W"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowFitting",
+      "ifcGuid": "37shBv58108w7W_oqgDA57",
+      "ifcEntityLabel": 99829,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "M_Rectangular Elbow - Radius:1.5 W:1012029"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "M_Rectangular Elbow - Radius:1.5 W"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 0,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "M_Rectangular to Round Transition - Angle:45 Degree"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowFitting",
+      "ifcGuid": "37shBv58108w7W_oqgDA54",
+      "ifcEntityLabel": 100594,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "M_Rectangular to Round Transition - Angle:45 Degree:1012030"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "M_Rectangular to Round Transition - Angle:45 Degree"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 0,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "M_Round Takeoff:Standard"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowFitting",
+      "ifcGuid": "37shBv58108w7W_oqgDA89",
+      "ifcEntityLabel": 100986,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "M_Round Takeoff:Standard:1012339"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "M_Round Takeoff:Standard"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 0,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "M_Rectangular Transition - Angle:45 Degree"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowFitting",
+      "ifcGuid": "37shBv58108w7W_oqgDAFO",
+      "ifcEntityLabel": 101092,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "M_Rectangular Transition - Angle:45 Degree:1012642"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "M_Rectangular Transition - Angle:45 Degree"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 0,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "M_Rectangular to Round Transition - Angle:45 Degree"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowFitting",
+      "ifcGuid": "37shBv58108w7W_oqgDAEr",
+      "ifcEntityLabel": 101182,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "M_Rectangular to Round Transition - Angle:45 Degree:1012687"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "M_Rectangular to Round Transition - Angle:45 Degree"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 0,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_FlowSegmentPipeSegment",
+          "properties": [
+            {
+              "Name": "Length",
+              "Value": "30"
+            }
+          ]
+        },
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Condotto rettangolare:Radius Elbows / Tees"
+            }
+          ]
+        },
+        {
+          "propertySetName": "Pset_FlowSegmentDuctSegment",
+          "properties": [
+            {
+              "Name": "Length",
+              "Value": "30"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowSegment",
+      "ifcGuid": "1CDrloTIv6OfT6JLKHlQeD",
+      "ifcEntityLabel": 12315,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Condotto rettangolare:Radius Elbows / Tees:954210"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Condotto rettangolare:Radius Elbows / Tees"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 0,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_FlowSegmentPipeSegment",
+          "properties": [
+            {
+              "Name": "Length",
+              "Value": "30"
+            }
+          ]
+        },
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Condotto rettangolare:Radius Elbows / Tees"
+            }
+          ]
+        },
+        {
+          "propertySetName": "Pset_FlowSegmentDuctSegment",
+          "properties": [
+            {
+              "Name": "Length",
+              "Value": "30"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowSegment",
+      "ifcGuid": "1CDrloTIv6OfT6JLKHlQeC",
+      "ifcEntityLabel": 12555,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Condotto rettangolare:Radius Elbows / Tees:954211"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Condotto rettangolare:Radius Elbows / Tees"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 0,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_FlowSegmentPipeSegment",
+          "properties": [
+            {
+              "Name": "Length",
+              "Value": "30"
+            }
+          ]
+        },
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Condotto rettangolare:Radius Elbows / Tees"
+            }
+          ]
+        },
+        {
+          "propertySetName": "Pset_FlowSegmentDuctSegment",
+          "properties": [
+            {
+              "Name": "Length",
+              "Value": "30"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowSegment",
+      "ifcGuid": "1CDrloTIv6OfT6JLKHlQeL",
+      "ifcEntityLabel": 13599,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Condotto rettangolare:Radius Elbows / Tees:954234"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Condotto rettangolare:Radius Elbows / Tees"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 0,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Condotto flessibile circolare:Flex - Round"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowSegment",
+      "ifcGuid": "1CDrloTIv6OfT6JLKHlQhl",
+      "ifcEntityLabel": 17390,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Condotto flessibile circolare:Flex - Round:954240"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Condotto flessibile circolare:Flex - Round"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 0,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_FlowSegmentPipeSegment",
+          "properties": [
+            {
+              "Name": "Length",
+              "Value": "40"
+            }
+          ]
+        },
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Condotto rettangolare:Radius Elbows / Tees"
+            }
+          ]
+        },
+        {
+          "propertySetName": "Pset_FlowSegmentDuctSegment",
+          "properties": [
+            {
+              "Name": "Length",
+              "Value": "40"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowSegment",
+      "ifcGuid": "1CDrloTIv6OfT6JLKHlQhg",
+      "ifcEntityLabel": 17818,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Condotto rettangolare:Radius Elbows / Tees:954245"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Condotto rettangolare:Radius Elbows / Tees"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 0,
+      "ifcStoreyIndex": 1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_FlowSegmentPipeSegment",
+          "properties": [
+            {
+              "Name": "Length",
+              "Value": "70.1999999999967"
+            }
+          ]
+        },
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Condotto rettangolare:Radius Elbows / Tees"
+            }
+          ]
+        },
+        {
+          "propertySetName": "Pset_FlowSegmentDuctSegment",
+          "properties": [
+            {
+              "Name": "Length",
+              "Value": "70.1999999999967"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowSegment",
+      "ifcGuid": "1CDrloTIv6OfT6JLKHlQhb",
+      "ifcEntityLabel": 18017,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Condotto rettangolare:Radius Elbows / Tees:954250"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Condotto rettangolare:Radius Elbows / Tees"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_FlowSegmentPipeSegment",
+          "properties": [
+            {
+              "Name": "Length",
+              "Value": "30"
+            }
+          ]
+        },
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Condotto rettangolare:Radius Elbows / Tees"
+            }
+          ]
+        },
+        {
+          "propertySetName": "Pset_FlowSegmentDuctSegment",
+          "properties": [
+            {
+              "Name": "Length",
+              "Value": "30"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowSegment",
+      "ifcGuid": "1CDrloTIv6OfT6JLKHlRGy",
+      "ifcEntityLabel": 18712,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Condotto rettangolare:Radius Elbows / Tees:954707"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Condotto rettangolare:Radius Elbows / Tees"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_FlowSegmentPipeSegment",
+          "properties": [
+            {
+              "Name": "Length",
+              "Value": "30"
+            }
+          ]
+        },
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Condotto rettangolare:Radius Elbows / Tees"
+            }
+          ]
+        },
+        {
+          "propertySetName": "Pset_FlowSegmentDuctSegment",
+          "properties": [
+            {
+              "Name": "Length",
+              "Value": "30"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowSegment",
+      "ifcGuid": "1CDrloTIv6OfT6JLKHlRGx",
+      "ifcEntityLabel": 18915,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Condotto rettangolare:Radius Elbows / Tees:954708"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Condotto rettangolare:Radius Elbows / Tees"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Condotto flessibile circolare:Flex - Round"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowSegment",
+      "ifcGuid": "1CDrloTIv6OfT6JLKHlRGq",
+      "ifcEntityLabel": 21188,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Condotto flessibile circolare:Flex - Round:954715"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Condotto flessibile circolare:Flex - Round"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_FlowSegmentPipeSegment",
+          "properties": [
+            {
+              "Name": "Length",
+              "Value": "30"
+            }
+          ]
+        },
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Condotto rettangolare:Radius Elbows / Tees"
+            }
+          ]
+        },
+        {
+          "propertySetName": "Pset_FlowSegmentDuctSegment",
+          "properties": [
+            {
+              "Name": "Length",
+              "Value": "30"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowSegment",
+      "ifcGuid": "1CDrloTIv6OfT6JLKHlRGm",
+      "ifcEntityLabel": 21473,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Condotto rettangolare:Radius Elbows / Tees:954719"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Condotto rettangolare:Radius Elbows / Tees"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_FlowSegmentPipeSegment",
+          "properties": [
+            {
+              "Name": "Length",
+              "Value": "30"
+            }
+          ]
+        },
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Condotto rettangolare:Radius Elbows / Tees"
+            }
+          ]
+        },
+        {
+          "propertySetName": "Pset_FlowSegmentDuctSegment",
+          "properties": [
+            {
+              "Name": "Length",
+              "Value": "30"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowSegment",
+      "ifcGuid": "1CDrloTIv6OfT6JLKHlRGF",
+      "ifcEntityLabel": 21676,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Condotto rettangolare:Radius Elbows / Tees:954720"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Condotto rettangolare:Radius Elbows / Tees"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Condotto flessibile circolare:Flex - Round"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowSegment",
+      "ifcGuid": "1CDrloTIv6OfT6JLKHlRG9",
+      "ifcEntityLabel": 24117,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Condotto flessibile circolare:Flex - Round:954726"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Condotto flessibile circolare:Flex - Round"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_FlowSegmentPipeSegment",
+          "properties": [
+            {
+              "Name": "Length",
+              "Value": "30"
+            }
+          ]
+        },
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Condotto rettangolare:Radius Elbows / Tees"
+            }
+          ]
+        },
+        {
+          "propertySetName": "Pset_FlowSegmentDuctSegment",
+          "properties": [
+            {
+              "Name": "Length",
+              "Value": "30"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowSegment",
+      "ifcGuid": "1CDrloTIv6OfT6JLKHlRG3",
+      "ifcEntityLabel": 24655,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Condotto rettangolare:Radius Elbows / Tees:954732"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Condotto rettangolare:Radius Elbows / Tees"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Condotto flessibile circolare:Flex - Round"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowSegment",
+      "ifcGuid": "1CDrloTIv6OfT6JLKHlRGT",
+      "ifcEntityLabel": 26762,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Condotto flessibile circolare:Flex - Round:954738"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Condotto flessibile circolare:Flex - Round"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 1,
+      "ifcStoreyIndex": 1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_FlowSegmentPipeSegment",
+          "properties": [
+            {
+              "Name": "Length",
+              "Value": "81.486796564401"
+            }
+          ]
+        },
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Condotto rettangolare:Radius Elbows / Tees"
+            }
+          ]
+        },
+        {
+          "propertySetName": "Pset_FlowSegmentDuctSegment",
+          "properties": [
+            {
+              "Name": "Length",
+              "Value": "81.486796564401"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowSegment",
+      "ifcGuid": "1CDrloTIv6OfT6JLKHlRGK",
+      "ifcEntityLabel": 27150,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Condotto rettangolare:Radius Elbows / Tees:954747"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Condotto rettangolare:Radius Elbows / Tees"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 0,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Condotto flessibile circolare:Flex - Round"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowSegment",
+      "ifcGuid": "1CDrloTIv6OfT6JLKHlR0i",
+      "ifcEntityLabel": 33117,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Condotto flessibile circolare:Flex - Round:955715"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Condotto flessibile circolare:Flex - Round"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 0,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Condotto flessibile circolare:Flex - Round"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowSegment",
+      "ifcGuid": "2seGZTu091Ev6wTSnCwYth",
+      "ifcEntityLabel": 99565,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Condotto flessibile circolare:Flex - Round:975075"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Condotto flessibile circolare:Flex - Round"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 0,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "M_Supply Diffuser:600 x 600 Face 300 x 300 Connection"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowTerminal",
+      "ifcGuid": "36rPknJw90wRCl3GfSBIk9",
+      "ifcEntityLabel": 10366,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "M_Supply Diffuser:600 x 600 Face 300 x 300 Connection:950910"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "M_Supply Diffuser:600 x 600 Face 300 x 300 Connection"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 0,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "M_Supply Diffuser:600 x 600 Face 300 x 300 Connection"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowTerminal",
+      "ifcGuid": "36rPknJw90wRCl3GfSBIgw",
+      "ifcEntityLabel": 10550,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "M_Supply Diffuser:600 x 600 Face 300 x 300 Connection:951117"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "M_Supply Diffuser:600 x 600 Face 300 x 300 Connection"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 0,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "M_Supply Diffuser:600 x 600 Face 300 x 300 Connection"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowTerminal",
+      "ifcGuid": "36rPknJw90wRCl3GfSBIfY",
+      "ifcEntityLabel": 10693,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "M_Supply Diffuser:600 x 600 Face 300 x 300 Connection:951189"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "M_Supply Diffuser:600 x 600 Face 300 x 300 Connection"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "M_Return Diffuser:600 x 600 Face 300 x 300 Connection"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowTerminal",
+      "ifcGuid": "36rPknJw90wRCl3GfSBIeS",
+      "ifcEntityLabel": 10836,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "M_Return Diffuser:600 x 600 Face 300 x 300 Connection:951275"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "M_Return Diffuser:600 x 600 Face 300 x 300 Connection"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "M_Return Diffuser:600 x 600 Face 300 x 300 Connection"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowTerminal",
+      "ifcGuid": "36rPknJw90wRCl3GfSBItR",
+      "ifcEntityLabel": 11009,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "M_Return Diffuser:600 x 600 Face 300 x 300 Connection:951340"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "M_Return Diffuser:600 x 600 Face 300 x 300 Connection"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_DistributionFlowElementCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "M_Return Diffuser:600 x 600 Face 300 x 300 Connection"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcFlowTerminal",
+      "ifcGuid": "36rPknJw90wRCl3GfSBIsX",
+      "ifcEntityLabel": 11152,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "M_Return Diffuser:600 x 600 Face 300 x 300 Connection:951382"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "M_Return Diffuser:600 x 600 Face 300 x 300 Connection"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 2,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcMechanicalFastener",
+      "ifcGuid": "3zIWm82QD0pfJU87N3nggR",
+      "ifcEntityLabel": 133021,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Hilti_INS_baseconnector_MQP-F:Base per il fissaggio di binari:1037698"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Hilti_INS_baseconnector_MQP-F:Base per il fissaggio di binari"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcMechanicalFastener",
+      "ifcGuid": "2hSx$9H5L1WgrPex1MpG7o",
+      "ifcEntityLabel": 133495,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 6mm:1045130"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 6mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcMechanicalFastener",
+      "ifcGuid": "2hSx$9H5L1WgrPex1MpGRA",
+      "ifcEntityLabel": 133664,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 6mm:1045938"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 6mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcMechanicalFastener",
+      "ifcGuid": "2hSx$9H5L1WgrPex1MpGLf",
+      "ifcEntityLabel": 133763,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 6mm:1046033"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 6mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcMechanicalFastener",
+      "ifcGuid": "2hSx$9H5L1WgrPex1MpGNJ",
+      "ifcEntityLabel": 133862,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 6mm:1046187"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 6mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcMechanicalFastener",
+      "ifcGuid": "2hSx$9H5L1WgrPex1MpGHC",
+      "ifcEntityLabel": 133961,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 6mm:1046324"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 6mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcMechanicalFastener",
+      "ifcGuid": "2hSx$9H5L1WgrPex1MpGIN",
+      "ifcEntityLabel": 134060,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 6mm:1046511"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 6mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcMechanicalFastener",
+      "ifcGuid": "2hSx$9H5L1WgrPex1MpGki",
+      "ifcEntityLabel": 134159,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 6mm:1046740"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 6mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcMechanicalFastener",
+      "ifcGuid": "2hSx$9H5L1WgrPex1MpGhV",
+      "ifcEntityLabel": 134258,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 6mm:1046951"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 6mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcMechanicalFastener",
+      "ifcGuid": "2hSx$9H5L1WgrPex1MpGaX",
+      "ifcEntityLabel": 134357,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 6mm:1047129"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 6mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcMechanicalFastener",
+      "ifcGuid": "2hSx$9H5L1WgrPex1MpGcD",
+      "ifcEntityLabel": 134456,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 6mm:1047285"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 6mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcMechanicalFastener",
+      "ifcGuid": "2hSx$9H5L1WgrPex1MpGYm",
+      "ifcEntityLabel": 134555,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 6mm:1047496"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 6mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcMechanicalFastener",
+      "ifcGuid": "2hSx$9H5L1WgrPex1MpG$D",
+      "ifcEntityLabel": 134654,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 6mm:1047733"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 6mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcMechanicalFastener",
+      "ifcGuid": "27gionTo5659glMUtX7rta",
+      "ifcEntityLabel": 134753,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 6mm:1048013"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 6mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcMechanicalFastener",
+      "ifcGuid": "27gionTo5659glMUtX7rux",
+      "ifcEntityLabel": 134852,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 6mm:1048082"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 6mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcMechanicalFastener",
+      "ifcGuid": "27gionTo5659glMUtX7rx1",
+      "ifcEntityLabel": 134951,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 6mm:1048296"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 6mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcMechanicalFastener",
+      "ifcGuid": "27gionTo5659glMUtX7r$v",
+      "ifcEntityLabel": 135050,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 6mm:1048528"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 6mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcMechanicalFastener",
+      "ifcGuid": "27gionTo5659glMUtX0A2f",
+      "ifcEntityLabel": 135149,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 6mm:1048704"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 6mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcMechanicalFastener",
+      "ifcGuid": "27gionTo5659glMUtX0A36",
+      "ifcEntityLabel": 135248,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 6mm:1048815"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 6mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 2,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcMechanicalFastener",
+      "ifcGuid": "0$YNNlWA9FpReIB_gkdrr2",
+      "ifcEntityLabel": 135343,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Hilti_INS_baseconnector_MQP-F:Base per il fissaggio di binari:1050322"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Hilti_INS_baseconnector_MQP-F:Base per il fissaggio di binari"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 2,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcMechanicalFastener",
+      "ifcGuid": "3vhasRzFzAaQp4dlFhqj8G",
+      "ifcEntityLabel": 135425,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Hilti_INS_baseconnector_MQP-F:Base per il fissaggio di binari:1050546"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Hilti_INS_baseconnector_MQP-F:Base per il fissaggio di binari"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 2,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcMechanicalFastener",
+      "ifcGuid": "3vhasRzFzAaQp4dlFhqj8Q",
+      "ifcEntityLabel": 135507,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Hilti_INS_baseconnector_MQP-F:Base per il fissaggio di binari:1050552"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Hilti_INS_baseconnector_MQP-F:Base per il fissaggio di binari"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 2,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcMechanicalFastener",
+      "ifcGuid": "3vhasRzFzAaQp4dlFhqj90",
+      "ifcEntityLabel": 135589,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Hilti_INS_baseconnector_MQP-F:Base per il fissaggio di binari:1050594"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Hilti_INS_baseconnector_MQP-F:Base per il fissaggio di binari"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 2,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcMechanicalFastener",
+      "ifcGuid": "3vhasRzFzAaQp4dlFhqj9A",
+      "ifcEntityLabel": 135671,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Hilti_INS_baseconnector_MQP-F:Base per il fissaggio di binari:1050600"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Hilti_INS_baseconnector_MQP-F:Base per il fissaggio di binari"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 2,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcMechanicalFastener",
+      "ifcGuid": "0AuP9Nvx92MuvIEEcdY$we",
+      "ifcEntityLabel": 135753,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Hilti_INS_baseconnector_MQP-F:Base per il fissaggio di binari:1050741"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Hilti_INS_baseconnector_MQP-F:Base per il fissaggio di binari"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 2,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcMechanicalFastener",
+      "ifcGuid": "0AuP9Nvx92MuvIEEcdY$wd",
+      "ifcEntityLabel": 135835,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Hilti_INS_baseconnector_MQP-F:Base per il fissaggio di binari:1050746"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Hilti_INS_baseconnector_MQP-F:Base per il fissaggio di binari"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 3,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcMechanicalFastener",
+      "ifcGuid": "0JGdi_juH0YvcU1FetkvSW",
+      "ifcEntityLabel": 136203,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 10mm:1050769"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 10mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 3,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcMechanicalFastener",
+      "ifcGuid": "0JGdi_juH0YvcU1FetkvTX",
+      "ifcEntityLabel": 136361,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 10mm:1050832"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 10mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 3,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcMechanicalFastener",
+      "ifcGuid": "0JGdi_juH0YvcU1FetkvT5",
+      "ifcEntityLabel": 136457,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 10mm:1050868"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 10mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 3,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcMechanicalFastener",
+      "ifcGuid": "0JGdi_juH0YvcU1FetkvQQ",
+      "ifcEntityLabel": 136553,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 10mm:1050923"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 10mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 3,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcMechanicalFastener",
+      "ifcGuid": "0JGdi_juH0YvcU1FetkvQ5",
+      "ifcEntityLabel": 136649,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 10mm:1050932"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 10mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 3,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcMechanicalFastener",
+      "ifcGuid": "0JGdi_juH0YvcU1FetkvRT",
+      "ifcEntityLabel": 136745,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 10mm:1050988"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 10mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 3,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcMechanicalFastener",
+      "ifcGuid": "0JGdi_juH0YvcU1FetkvKq",
+      "ifcEntityLabel": 136841,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 10mm:1051269"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 10mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 3,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcMechanicalFastener",
+      "ifcGuid": "0JGdi_juH0YvcU1FetkvK5",
+      "ifcEntityLabel": 136937,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 10mm:1051316"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 10mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 3,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcMechanicalFastener",
+      "ifcGuid": "0JGdi_juH0YvcU1FetkvKC",
+      "ifcEntityLabel": 137033,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 10mm:1051325"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 10mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 3,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcMechanicalFastener",
+      "ifcGuid": "0JGdi_juH0YvcU1FetkvLf",
+      "ifcEntityLabel": 137129,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 10mm:1051352"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 10mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 3,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcMechanicalFastener",
+      "ifcGuid": "0JGdi_juH0YvcU1FetkvLM",
+      "ifcEntityLabel": 137225,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 10mm:1051367"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 10mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 3,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcMechanicalFastener",
+      "ifcGuid": "0JGdi_juH0YvcU1FetkvL8",
+      "ifcEntityLabel": 137321,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 10mm:1051385"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 10mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 3,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcMechanicalFastener",
+      "ifcGuid": "0JGdi_juH0YvcU1FetkvIp",
+      "ifcEntityLabel": 137417,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 10mm:1051394"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 10mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 3,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcMechanicalFastener",
+      "ifcGuid": "0JGdi_juH0YvcU1FetkvJW",
+      "ifcEntityLabel": 137513,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 10mm:1051473"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 10mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 3,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcMechanicalFastener",
+      "ifcGuid": "0JGdi_juH0YvcU1FetkvE9",
+      "ifcEntityLabel": 137609,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 10mm:1051704"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 10mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 3,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcMechanicalFastener",
+      "ifcGuid": "0JGdi_juH0YvcU1FetkvCE",
+      "ifcEntityLabel": 137705,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 10mm:1051839"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Hilti_ANC_anchor_HUS3:Tassello a vite 10mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_BeamCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Concrete - Rectangular Beam:400 x 600mm"
+            },
+            {
+              "Name": "Span",
+              "Value": "865"
+            },
+            {
+              "Name": "Slope",
+              "Value": "0"
+            },
+            {
+              "Name": "IsExternal",
+              "Value": "false"
+            },
+            {
+              "Name": "LoadBearing",
+              "Value": "true"
+            }
+          ]
+        },
+        {
+          "propertySetName": "Pset_ReinforcementBarPitchOfBeam",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Concrete - Rectangular Beam:400 x 600mm"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcBeam",
+      "ifcGuid": "2sHIkaMqX5b8pEHNzTmeBH",
+      "ifcEntityLabel": 8818,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Concrete - Rectangular Beam:400 x 600mm:947015"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Concrete - Rectangular Beam:400 x 600mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_BeamCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Concrete - Rectangular Beam:400 x 600mm"
+            },
+            {
+              "Name": "Span",
+              "Value": "852.9"
+            },
+            {
+              "Name": "Slope",
+              "Value": "0"
+            },
+            {
+              "Name": "IsExternal",
+              "Value": "false"
+            },
+            {
+              "Name": "LoadBearing",
+              "Value": "true"
+            }
+          ]
+        },
+        {
+          "propertySetName": "Pset_ReinforcementBarPitchOfBeam",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Concrete - Rectangular Beam:400 x 600mm"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcBeam",
+      "ifcGuid": "2sHIkaMqX5b8pEHNzTmeB9",
+      "ifcEntityLabel": 8984,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Concrete - Rectangular Beam:400 x 600mm:947039"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Concrete - Rectangular Beam:400 x 600mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_BeamCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Concrete - Rectangular Beam:600 x 600mm"
+            },
+            {
+              "Name": "Span",
+              "Value": "865"
+            },
+            {
+              "Name": "Slope",
+              "Value": "0"
+            },
+            {
+              "Name": "IsExternal",
+              "Value": "false"
+            },
+            {
+              "Name": "LoadBearing",
+              "Value": "true"
+            }
+          ]
+        },
+        {
+          "propertySetName": "Pset_ReinforcementBarPitchOfBeam",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Concrete - Rectangular Beam:600 x 600mm"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcBeam",
+      "ifcGuid": "2sHIkaMqX5b8pEHNzTmeBZ",
+      "ifcEntityLabel": 9097,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Concrete - Rectangular Beam:600 x 600mm:947061"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Concrete - Rectangular Beam:600 x 600mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_BeamCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Concrete - Rectangular Beam:600 x 600mm"
+            },
+            {
+              "Name": "Span",
+              "Value": "798.2"
+            },
+            {
+              "Name": "Slope",
+              "Value": "0"
+            },
+            {
+              "Name": "IsExternal",
+              "Value": "false"
+            },
+            {
+              "Name": "LoadBearing",
+              "Value": "true"
+            }
+          ]
+        },
+        {
+          "propertySetName": "Pset_ReinforcementBarPitchOfBeam",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Concrete - Rectangular Beam:600 x 600mm"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcBeam",
+      "ifcGuid": "2sHIkaMqX5b8pEHNzTme8Q",
+      "ifcEntityLabel": 9247,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Concrete - Rectangular Beam:600 x 600mm:947084"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Concrete - Rectangular Beam:600 x 600mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 2,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_ReinforcementBarPitchOfColumn",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Concrete Rectangular:400 x 900mm"
+            }
+          ]
+        },
+        {
+          "propertySetName": "Pset_ColumnCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Concrete Rectangular:400 x 900mm"
+            },
+            {
+              "Name": "IsExternal",
+              "Value": "false"
+            },
+            {
+              "Name": "LoadBearing",
+              "Value": "true"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcColumn",
+      "ifcGuid": "1evipg2MH7OQvwN7M5aMP5",
+      "ifcEntityLabel": 2077,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Concrete Rectangular:400 x 900mm:945598"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Concrete Rectangular:400 x 900mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 2,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_ReinforcementBarPitchOfColumn",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Concrete Rectangular:100 x 1200mm"
+            }
+          ]
+        },
+        {
+          "propertySetName": "Pset_ColumnCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Concrete Rectangular:100 x 1200mm"
+            },
+            {
+              "Name": "IsExternal",
+              "Value": "false"
+            },
+            {
+              "Name": "LoadBearing",
+              "Value": "true"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcColumn",
+      "ifcGuid": "1evipg2MH7OQvwN7M5aMNx",
+      "ifcEntityLabel": 2224,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Concrete Rectangular:100 x 1200mm:945664"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Concrete Rectangular:100 x 1200mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 2,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_ReinforcementBarPitchOfColumn",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Concrete Rectangular:400 x 400mm"
+            }
+          ]
+        },
+        {
+          "propertySetName": "Pset_ColumnCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Concrete Rectangular:400 x 400mm"
+            },
+            {
+              "Name": "IsExternal",
+              "Value": "false"
+            },
+            {
+              "Name": "LoadBearing",
+              "Value": "true"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcColumn",
+      "ifcGuid": "1evipg2MH7OQvwN7M5aMN0",
+      "ifcEntityLabel": 2356,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Concrete Rectangular:400 x 400mm:945723"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Concrete Rectangular:400 x 400mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 2,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_ReinforcementBarPitchOfColumn",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Concrete Rectangular:400 x 700mm"
+            }
+          ]
+        },
+        {
+          "propertySetName": "Pset_ColumnCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Concrete Rectangular:400 x 700mm"
+            },
+            {
+              "Name": "IsExternal",
+              "Value": "false"
+            },
+            {
+              "Name": "LoadBearing",
+              "Value": "true"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcColumn",
+      "ifcGuid": "1evipg2MH7OQvwN7M5aMM3",
+      "ifcEntityLabel": 2488,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Concrete Rectangular:400 x 700mm:945784"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Concrete Rectangular:400 x 700mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 2,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_DoorCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Doors_ExtDbl_Flush_Fire_Escape:1810x2200mm"
+            },
+            {
+              "Name": "IsExternal",
+              "Value": "true"
+            },
+            {
+              "Name": "ThermalTransmittance",
+              "Value": "3.7021"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcDoor",
+      "ifcGuid": "1evipg2MH7OQvwN7M5aNlz",
+      "ifcEntityLabel": 8645,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Doors_ExtDbl_Flush_Fire_Escape:1810x2200mm:946182"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Doors_ExtDbl_Flush_Fire_Escape:1810x2200mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 4,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_DoorCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Doors_IntSgl_1:1010x2110mm"
+            },
+            {
+              "Name": "IsExternal",
+              "Value": "false"
+            },
+            {
+              "Name": "ThermalTransmittance",
+              "Value": "3.7021"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcDoor",
+      "ifcGuid": "0D_bT8ef19LAE9mAM1UQTm",
+      "ifcEntityLabel": 95157,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Doors_IntSgl_1:1010x2110mm:968233"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Doors_IntSgl_1:1010x2110mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 4,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_DoorCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Doors_IntSgl_1:1010x2110mm"
+            },
+            {
+              "Name": "IsExternal",
+              "Value": "false"
+            },
+            {
+              "Name": "ThermalTransmittance",
+              "Value": "3.7021"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcDoor",
+      "ifcGuid": "0D_bT8ef19LAE9mAM1UQSF",
+      "ifcEntityLabel": 95311,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Doors_IntSgl_1:1010x2110mm:968278"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Doors_IntSgl_1:1010x2110mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_RoofCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Tetto di base:Generic - 400mm"
+            },
+            {
+              "Name": "IsExternal",
+              "Value": "true"
+            },
+            {
+              "Name": "ProjectedArea",
+              "Value": "91.6104150000041"
+            },
+            {
+              "Name": "TotalArea",
+              "Value": "91.6104150000041"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcRoof",
+      "ifcGuid": "0d_pDVIf91FRQz7XEBnzDB",
+      "ifcEntityLabel": 9932,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Tetto di base:Generic - 400mm:948383"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Tetto di base:Generic - 400mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 2,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_SlabCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Platea:Platea"
+            },
+            {
+              "Name": "IsExternal",
+              "Value": "false"
+            },
+            {
+              "Name": "LoadBearing",
+              "Value": "true"
+            },
+            {
+              "Name": "PitchAngle",
+              "Value": "0"
+            }
+          ]
+        },
+        {
+          "propertySetName": "Pset_ReinforcementBarPitchOfSlab",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Platea:Platea"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcSlab",
+      "ifcGuid": "1evipg2MH7OQvwN7M5aGBd",
+      "ifcEntityLabel": 1884,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Platea:Platea:919836"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Platea:Platea"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_SlabCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Tetto di base:Generic - 400mm"
+            },
+            {
+              "Name": "ThermalTransmittance",
+              "Value": "3.25"
+            },
+            {
+              "Name": "IsExternal",
+              "Value": "true"
+            },
+            {
+              "Name": "PitchAngle",
+              "Value": "0"
+            }
+          ]
+        },
+        {
+          "propertySetName": "Pset_ReinforcementBarPitchOfSlab",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Tetto di base:Generic - 400mm"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcSlab",
+      "ifcGuid": "0d_pDVIf91FRQz7X6BnzDB",
+      "ifcEntityLabel": 9957,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Tetto di base:Generic - 400mm:948383"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Tetto di base:Generic - 400mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 2,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_SlabCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Pavimento:Insitu Concrete 225mm 2"
+            },
+            {
+              "Name": "ThermalTransmittance",
+              "Value": "282.89987600744"
+            },
+            {
+              "Name": "IsExternal",
+              "Value": "false"
+            },
+            {
+              "Name": "LoadBearing",
+              "Value": "false"
+            },
+            {
+              "Name": "PitchAngle",
+              "Value": "0"
+            }
+          ]
+        },
+        {
+          "propertySetName": "Pset_ReinforcementBarPitchOfSlab",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Pavimento:Insitu Concrete 225mm 2"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcSlab",
+      "ifcGuid": "3TBKicoNj4lQx2KQz7oSrw",
+      "ifcEntityLabel": 10141,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Pavimento:Insitu Concrete 225mm 2:949750"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Pavimento:Insitu Concrete 225mm 2"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 2,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_WallCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Muro di base:Generic - 300mm"
+            },
+            {
+              "Name": "ThermalTransmittance",
+              "Value": "4.33333333333333"
+            },
+            {
+              "Name": "IsExternal",
+              "Value": "true"
+            },
+            {
+              "Name": "ExtendToStructure",
+              "Value": "false"
+            },
+            {
+              "Name": "LoadBearing",
+              "Value": "false"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcWallStandardCase",
+      "ifcGuid": "1evipg2MH7OQvwN7M5aGCd",
+      "ifcEntityLabel": 1384,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Muro di base:Generic - 300mm:919772"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Muro di base:Generic - 300mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 2,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_WallCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Muro di base:Generic - 300mm"
+            },
+            {
+              "Name": "ThermalTransmittance",
+              "Value": "4.33333333333333"
+            },
+            {
+              "Name": "IsExternal",
+              "Value": "true"
+            },
+            {
+              "Name": "ExtendToStructure",
+              "Value": "false"
+            },
+            {
+              "Name": "LoadBearing",
+              "Value": "false"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcWallStandardCase",
+      "ifcGuid": "1evipg2MH7OQvwN7M5aGCc",
+      "ifcEntityLabel": 1606,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Muro di base:Generic - 300mm:919773"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Muro di base:Generic - 300mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 2,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_WallCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Muro di base:Generic - 300mm"
+            },
+            {
+              "Name": "ThermalTransmittance",
+              "Value": "4.33333333333333"
+            },
+            {
+              "Name": "IsExternal",
+              "Value": "true"
+            },
+            {
+              "Name": "ExtendToStructure",
+              "Value": "false"
+            },
+            {
+              "Name": "LoadBearing",
+              "Value": "false"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcWallStandardCase",
+      "ifcGuid": "1evipg2MH7OQvwN7M5aGCb",
+      "ifcEntityLabel": 1698,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Muro di base:Generic - 300mm:919774"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Muro di base:Generic - 300mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 2,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_WallCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Muro di base:Generic - 300mm"
+            },
+            {
+              "Name": "ThermalTransmittance",
+              "Value": "4.33333333333333"
+            },
+            {
+              "Name": "IsExternal",
+              "Value": "true"
+            },
+            {
+              "Name": "ExtendToStructure",
+              "Value": "false"
+            },
+            {
+              "Name": "LoadBearing",
+              "Value": "false"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcWallStandardCase",
+      "ifcGuid": "1evipg2MH7OQvwN7M5aGCK",
+      "ifcEntityLabel": 1790,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Muro di base:Generic - 300mm:919791"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Muro di base:Generic - 300mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_WallCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Muro di base:Parapet Wall"
+            },
+            {
+              "Name": "ThermalTransmittance",
+              "Value": "13"
+            },
+            {
+              "Name": "IsExternal",
+              "Value": "true"
+            },
+            {
+              "Name": "ExtendToStructure",
+              "Value": "false"
+            },
+            {
+              "Name": "LoadBearing",
+              "Value": "false"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcWallStandardCase",
+      "ifcGuid": "0d_pDVIf91FRQz7XEBnztB",
+      "ifcEntityLabel": 9529,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Muro di base:Parapet Wall:947743"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Muro di base:Parapet Wall"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_WallCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Muro di base:Parapet Wall"
+            },
+            {
+              "Name": "ThermalTransmittance",
+              "Value": "13"
+            },
+            {
+              "Name": "IsExternal",
+              "Value": "true"
+            },
+            {
+              "Name": "ExtendToStructure",
+              "Value": "false"
+            },
+            {
+              "Name": "LoadBearing",
+              "Value": "false"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcWallStandardCase",
+      "ifcGuid": "0d_pDVIf91FRQz7XEBnzs7",
+      "ifcEntityLabel": 9675,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Muro di base:Parapet Wall:947795"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Muro di base:Parapet Wall"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_WallCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Muro di base:Parapet Wall"
+            },
+            {
+              "Name": "ThermalTransmittance",
+              "Value": "13"
+            },
+            {
+              "Name": "IsExternal",
+              "Value": "true"
+            },
+            {
+              "Name": "ExtendToStructure",
+              "Value": "false"
+            },
+            {
+              "Name": "LoadBearing",
+              "Value": "false"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcWallStandardCase",
+      "ifcGuid": "0d_pDVIf91FRQz7XEBnzrG",
+      "ifcEntityLabel": 9767,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Muro di base:Parapet Wall:947844"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Muro di base:Parapet Wall"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_WallCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Muro di base:Parapet Wall"
+            },
+            {
+              "Name": "ThermalTransmittance",
+              "Value": "13"
+            },
+            {
+              "Name": "IsExternal",
+              "Value": "true"
+            },
+            {
+              "Name": "ExtendToStructure",
+              "Value": "false"
+            },
+            {
+              "Name": "LoadBearing",
+              "Value": "false"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcWallStandardCase",
+      "ifcGuid": "0d_pDVIf91FRQz7XEBnzqH",
+      "ifcEntityLabel": 9859,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Muro di base:Parapet Wall:947909"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Muro di base:Parapet Wall"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 4,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_WallCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Muro di base:Nuova Partizione interna 10 cm"
+            },
+            {
+              "Name": "ThermalTransmittance",
+              "Value": "253.125"
+            },
+            {
+              "Name": "IsExternal",
+              "Value": "false"
+            },
+            {
+              "Name": "ExtendToStructure",
+              "Value": "false"
+            },
+            {
+              "Name": "LoadBearing",
+              "Value": "false"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcWallStandardCase",
+      "ifcGuid": "0D_bT8ef19LAE9mAM1UQFK",
+      "ifcEntityLabel": 82256,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Muro di base:Nuova Partizione interna 10 cm:967309"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Muro di base:Nuova Partizione interna 10 cm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 4,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_WallCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Muro di base:Nuova Partizione interna 10 cm"
+            },
+            {
+              "Name": "ThermalTransmittance",
+              "Value": "253.125"
+            },
+            {
+              "Name": "IsExternal",
+              "Value": "false"
+            },
+            {
+              "Name": "ExtendToStructure",
+              "Value": "false"
+            },
+            {
+              "Name": "LoadBearing",
+              "Value": "false"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcWallStandardCase",
+      "ifcGuid": "0D_bT8ef19LAE9mAM1UQ9P",
+      "ifcEntityLabel": 82434,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Muro di base:Nuova Partizione interna 10 cm:967424"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Muro di base:Nuova Partizione interna 10 cm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 2,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_WallCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Muro di base:Generic - 300mm"
+            },
+            {
+              "Name": "ThermalTransmittance",
+              "Value": "4.33333333333333"
+            },
+            {
+              "Name": "IsExternal",
+              "Value": "true"
+            },
+            {
+              "Name": "ExtendToStructure",
+              "Value": "false"
+            },
+            {
+              "Name": "LoadBearing",
+              "Value": "false"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcWallStandardCase",
+      "ifcGuid": "2OBPgDlOz0DB$u1TN$GlRG",
+      "ifcEntityLabel": 101288,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Muro di base:Generic - 300mm:1017601"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Muro di base:Generic - 300mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 2,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_WallCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Muro di base:Generic - 300mm"
+            },
+            {
+              "Name": "ThermalTransmittance",
+              "Value": "4.33333333333333"
+            },
+            {
+              "Name": "IsExternal",
+              "Value": "true"
+            },
+            {
+              "Name": "ExtendToStructure",
+              "Value": "false"
+            },
+            {
+              "Name": "LoadBearing",
+              "Value": "false"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcWallStandardCase",
+      "ifcGuid": "2OBPgDlOz0DB$u1TN$GlRJ",
+      "ifcEntityLabel": 101370,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Muro di base:Generic - 300mm:1017602"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Muro di base:Generic - 300mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 4,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_WindowCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Windows_Tpl_Plain:2500x1900mm"
+            },
+            {
+              "Name": "IsExternal",
+              "Value": "true"
+            },
+            {
+              "Name": "ThermalTransmittance",
+              "Value": "1.9873"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcWindow",
+      "ifcGuid": "3NkI86N8r6oAltlsh6ExqE",
+      "ifcEntityLabel": 96677,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Windows_Tpl_Plain:2500x1900mm:968557"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Windows_Tpl_Plain:2500x1900mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 4,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_WindowCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Windows_Tpl_Plain:2500x1900mm"
+            },
+            {
+              "Name": "IsExternal",
+              "Value": "true"
+            },
+            {
+              "Name": "ThermalTransmittance",
+              "Value": "1.9873"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcWindow",
+      "ifcGuid": "3NkI86N8r6oAltlsh6ExQZ",
+      "ifcEntityLabel": 96834,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Windows_Tpl_Plain:2500x1900mm:969920"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Windows_Tpl_Plain:2500x1900mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": 0,
+      "ifcStoreyIndex": 1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_BuildingElementProxyCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Rooftop AC Units - Electric - 11-88 kW:11 kW"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcBuildingElementProxy",
+      "ifcGuid": "36rPknJw90wRCl3GfSBIGx",
+      "ifcEntityLabel": 12149,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Rooftop AC Units - Electric - 11-88 kW:11 kW:953804"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Rooftop AC Units - Electric - 11-88 kW:11 kW"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_BuildingElementProxyCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Profilo metallico:Profilo metallico per ancoraggio partizioni"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcBuildingElementProxy",
+      "ifcGuid": "1NLOi_yZr0QAvrISnV6wx8",
+      "ifcEntityLabel": 130018,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Profilo metallico:Profilo metallico per ancoraggio partizioni:1020620"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Profilo metallico:Profilo metallico per ancoraggio partizioni"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_BuildingElementProxyCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Profilo metallico:Profilo metallico per ancoraggio partizioni"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcBuildingElementProxy",
+      "ifcGuid": "2fLstTcU12TRufdC2DXoTM",
+      "ifcEntityLabel": 130123,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Profilo metallico:Profilo metallico per ancoraggio partizioni:1020966"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Profilo metallico:Profilo metallico per ancoraggio partizioni"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_BuildingElementProxyCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Profilo metallico:Profilo metallico per ancoraggio partizioni"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcBuildingElementProxy",
+      "ifcGuid": "1eVABDpu9FDPwdewkMyVuP",
+      "ifcEntityLabel": 130175,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Profilo metallico:Profilo metallico per ancoraggio partizioni:1022050"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Profilo metallico:Profilo metallico per ancoraggio partizioni"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_BuildingElementProxyCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "QRCode:QRCode"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcBuildingElementProxy",
+      "ifcGuid": "0dmygcFgX0jgSRM3VtG5rB",
+      "ifcEntityLabel": 137822,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "QRCode:QRCode:1060102"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "QRCode:QRCode"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_BuildingElementProxyCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "QRCode:QRCode"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcBuildingElementProxy",
+      "ifcGuid": "0dmygcFgX0jgSRM3VtG5rq",
+      "ifcEntityLabel": 137914,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "QRCode:QRCode:1060153"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "QRCode:QRCode"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_BuildingElementProxyCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "QRCode:QRCode"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcBuildingElementProxy",
+      "ifcGuid": "0dmygcFgX0jgSRM3VtG44Q",
+      "ifcEntityLabel": 137968,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "QRCode:QRCode:1061207"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "QRCode:QRCode"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_BuildingElementProxyCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "QRCode:QRCode"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcBuildingElementProxy",
+      "ifcGuid": "33lYoRwuT4HgpViZvpZhMG",
+      "ifcEntityLabel": 138022,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "QRCode:QRCode:1061767"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "QRCode:QRCode"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_BuildingElementProxyCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "QRCode:QRCode"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcBuildingElementProxy",
+      "ifcGuid": "0QPxwZP9PErxBxlBM_QXOm",
+      "ifcEntityLabel": 138076,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "QRCode:QRCode:1061801"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "QRCode:QRCode"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_BuildingElementProxyCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "QRCode:QRCode"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcBuildingElementProxy",
+      "ifcGuid": "0QPxwZP9PErxBxlBM_QXPG",
+      "ifcEntityLabel": 138130,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "QRCode:QRCode:1061833"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "QRCode:QRCode"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_BuildingElementProxyCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "QRCode:QRCode"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcBuildingElementProxy",
+      "ifcGuid": "0QPxwZP9PErxBxlBM_QXP_",
+      "ifcEntityLabel": 138184,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "QRCode:QRCode:1061863"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "QRCode:QRCode"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_BuildingElementProxyCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "QRCode:QRCode"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcBuildingElementProxy",
+      "ifcGuid": "0QPxwZP9PErxBxlBM_QX6w",
+      "ifcEntityLabel": 138238,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "QRCode:QRCode:1061923"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "QRCode:QRCode"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_CoveringCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Controsoffitto composto:600 x 600mm Grid"
+            },
+            {
+              "Name": "TotalThickness",
+              "Value": "5.2"
+            },
+            {
+              "Name": "Finish",
+              "Value": "Ceiling Tile 600 x 600;"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcCovering",
+      "ifcGuid": "2sHIkaMqX5b8pEHNzTme9_",
+      "ifcEntityLabel": 9382,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Controsoffitto composto:600 x 600mm Grid:947176"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Controsoffitto composto:600 x 600mm Grid"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_CoveringCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcCovering",
+      "ifcGuid": "1IRKx_hh10hx$FCShCRiAf",
+      "ifcEntityLabel": 101450,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia:1018086"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_CoveringCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcCovering",
+      "ifcGuid": "1IRKx_hh10hx$FCShCRiAW",
+      "ifcEntityLabel": 101578,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia:1018095"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_CoveringCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcCovering",
+      "ifcGuid": "1IRKx_hh10hx$FCShCRiAt",
+      "ifcEntityLabel": 101642,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia:1018104"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_CoveringCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcCovering",
+      "ifcGuid": "1IRKx_hh10hx$FCShCRiDB",
+      "ifcEntityLabel": 101712,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia:1018116"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_CoveringCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcCovering",
+      "ifcGuid": "1IRKx_hh10hx$FCShCRiD2",
+      "ifcEntityLabel": 101767,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia:1018125"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_CoveringCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcCovering",
+      "ifcGuid": "1IRKx_hh10hx$FCShCRiDP",
+      "ifcEntityLabel": 101825,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia:1018134"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_CoveringCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcCovering",
+      "ifcGuid": "1IRKx_hh10hx$FCShCRiDj",
+      "ifcEntityLabel": 101898,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia:1018146"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_CoveringCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcCovering",
+      "ifcGuid": "1IRKx_hh10hx$FCShCRiDa",
+      "ifcEntityLabel": 101953,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia:1018155"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_CoveringCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcCovering",
+      "ifcGuid": "1IRKx_hh10hx$FCShCRiDx",
+      "ifcEntityLabel": 102011,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia:1018164"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_CoveringCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcCovering",
+      "ifcGuid": "1IRKx_hh10hx$FCShCRiDo",
+      "ifcEntityLabel": 102078,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia:1018173"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_CoveringCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcCovering",
+      "ifcGuid": "1IRKx_hh10hx$FCShCRiC9",
+      "ifcEntityLabel": 102166,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia:1018182"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_CoveringCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcCovering",
+      "ifcGuid": "1IRKx_hh10hx$FCShCRiCO",
+      "ifcEntityLabel": 102221,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia:1018199"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_CoveringCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcCovering",
+      "ifcGuid": "1IRKx_hh10hx$FCShCRiCZ",
+      "ifcEntityLabel": 102279,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia:1018220"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_CoveringCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcCovering",
+      "ifcGuid": "1IRKx_hh10hx$FCShCRiCo",
+      "ifcEntityLabel": 102337,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia:1018237"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_CoveringCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcCovering",
+      "ifcGuid": "1IRKx_hh10hx$FCShCRiF9",
+      "ifcEntityLabel": 102428,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia:1018246"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_CoveringCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcCovering",
+      "ifcGuid": "1IRKx_hh10hx$FCShCRiFU",
+      "ifcEntityLabel": 102483,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia:1018257"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_CoveringCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcCovering",
+      "ifcGuid": "1IRKx_hh10hx$FCShCRiFL",
+      "ifcEntityLabel": 102574,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia:1018266"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_CoveringCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcCovering",
+      "ifcGuid": "1IRKx_hh10hx$FCShCRiFi",
+      "ifcEntityLabel": 102629,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia:1018275"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_CoveringCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcCovering",
+      "ifcGuid": "1IRKx_hh10hx$FCShCRiFa",
+      "ifcEntityLabel": 102696,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia:1018283"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_CoveringCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcCovering",
+      "ifcGuid": "1IRKx_hh10hx$FCShCRiFu",
+      "ifcEntityLabel": 102766,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia:1018295"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_CoveringCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcCovering",
+      "ifcGuid": "1IRKx_hh10hx$FCShCRiEF",
+      "ifcEntityLabel": 102830,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia:1018304"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_CoveringCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcCovering",
+      "ifcGuid": "1IRKx_hh10hx$FCShCRiE4",
+      "ifcEntityLabel": 102885,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia:1018315"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_CoveringCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcCovering",
+      "ifcGuid": "3HjCT8ZWb9twczfWJcM6RL",
+      "ifcEntityLabel": 102947,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia:1018335"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_CoveringCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcCovering",
+      "ifcGuid": "3HjCT8ZWb9twczfWJcM6Rc",
+      "ifcEntityLabel": 106585,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia:1018348"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_CoveringCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcCovering",
+      "ifcGuid": "3HjCT8ZWb9twczfWJcM6Rv",
+      "ifcEntityLabel": 107310,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia:1018355"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_CoveringCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcCovering",
+      "ifcGuid": "3HjCT8ZWb9twczfWJcM6Rn",
+      "ifcEntityLabel": 108032,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia:1018363"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_CoveringCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcCovering",
+      "ifcGuid": "3HjCT8ZWb9twczfWJcM6KA",
+      "ifcEntityLabel": 110326,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia:1018368"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_CoveringCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcCovering",
+      "ifcGuid": "3HjCT8ZWb9twczfWJcM6K2",
+      "ifcEntityLabel": 111051,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia:1018376"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_CoveringCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcCovering",
+      "ifcGuid": "3HjCT8ZWb9twczfWJcM6K7",
+      "ifcEntityLabel": 113177,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia:1018381"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_CoveringCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcCovering",
+      "ifcGuid": "3HjCT8ZWb9twczfWJcM6KV",
+      "ifcEntityLabel": 113902,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia:1018389"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_CoveringCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcCovering",
+      "ifcGuid": "3HjCT8ZWb9twczfWJcM6KG",
+      "ifcEntityLabel": 116604,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia:1018394"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_CoveringCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcCovering",
+      "ifcGuid": "3HjCT8ZWb9twczfWJcM6Ke",
+      "ifcEntityLabel": 117329,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia:1018402"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_CoveringCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcCovering",
+      "ifcGuid": "3HjCT8ZWb9twczfWJcM6Kj",
+      "ifcEntityLabel": 119287,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia:1018407"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_CoveringCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcCovering",
+      "ifcGuid": "3HjCT8ZWb9twczfWJcM6Kb",
+      "ifcEntityLabel": 120012,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia:1018415"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_CoveringCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcCovering",
+      "ifcGuid": "3HjCT8ZWb9twczfWJcM6Kz",
+      "ifcEntityLabel": 120734,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia:1018423"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_CoveringCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcCovering",
+      "ifcGuid": "3HjCT8ZWb9twczfWJcM6Kr",
+      "ifcEntityLabel": 121456,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia:1018431"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_CoveringCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcCovering",
+      "ifcGuid": "3HjCT8ZWb9twczfWJcM6LD",
+      "ifcEntityLabel": 122178,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia:1018439"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_CoveringCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcCovering",
+      "ifcGuid": "3HjCT8ZWb9twczfWJcM6L5",
+      "ifcEntityLabel": 122900,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia:1018447"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_CoveringCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcCovering",
+      "ifcGuid": "3HjCT8ZWb9twczfWJcM6LK",
+      "ifcEntityLabel": 123622,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia:1018462"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": 0,
+      "ifcSpaceIndex": -1,
+      "propertySets": [
+        {
+          "propertySetName": "Pset_CoveringCommon",
+          "properties": [
+            {
+              "Name": "Reference",
+              "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+            }
+          ]
+        }
+      ],
+      "ifcExpressTypeName": "IfcCovering",
+      "ifcGuid": "2HOL0vVErEwO4WutdlxJM$",
+      "ifcEntityLabel": 129932,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia:1018518"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Isolamento condotto:Isolamento in rotoli di lana di roccia"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcFurnishingElement",
+      "ifcGuid": "2PxjBxBV183e6j7LJitfmE",
+      "ifcEntityLabel": 33380,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Desk:Desk 100x80:956454"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Desk:Desk 100x80"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcFurnishingElement",
+      "ifcGuid": "2PxjBxBV183e6j7LJitfmH",
+      "ifcEntityLabel": 33492,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Desk:Desk 100x80:956473"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Desk:Desk 100x80"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcFurnishingElement",
+      "ifcGuid": "2PxjBxBV183e6j7LJitfnY",
+      "ifcEntityLabel": 33557,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Desk:Desk 100x80:956490"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Desk:Desk 100x80"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcFurnishingElement",
+      "ifcGuid": "2PxjBxBV183e6j7LJitfnr",
+      "ifcEntityLabel": 33622,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Desk:Desk 100x80:956509"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Desk:Desk 100x80"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcFurnishingElement",
+      "ifcGuid": "2PxjBxBV183e6j7LJitfnO",
+      "ifcEntityLabel": 33687,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Desk:Desk 100x80:956528"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Desk:Desk 100x80"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcFurnishingElement",
+      "ifcGuid": "2PxjBxBV183e6j7LJitfpS",
+      "ifcEntityLabel": 33752,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Desk:Desk 100x80:956660"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Desk:Desk 100x80"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcFurnishingElement",
+      "ifcGuid": "2PxjBxBV183e6j7LJitfpT",
+      "ifcEntityLabel": 33817,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Desk:Desk 100x80:956661"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Desk:Desk 100x80"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcFurnishingElement",
+      "ifcGuid": "2PxjBxBV183e6j7LJitfpU",
+      "ifcEntityLabel": 33882,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Desk:Desk 100x80:956662"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Desk:Desk 100x80"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcFurnishingElement",
+      "ifcGuid": "2PxjBxBV183e6j7LJitfpV",
+      "ifcEntityLabel": 33947,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Desk:Desk 100x80:956663"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Desk:Desk 100x80"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcFurnishingElement",
+      "ifcGuid": "2PxjBxBV183e6j7LJitfpG",
+      "ifcEntityLabel": 34012,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Desk:Desk 100x80:956664"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Desk:Desk 100x80"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcFurnishingElement",
+      "ifcGuid": "2PxjBxBV183e6j7LJitfqD",
+      "ifcEntityLabel": 34077,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Desk:Desk 100x80:956709"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Desk:Desk 100x80"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcFurnishingElement",
+      "ifcGuid": "2PxjBxBV183e6j7LJitfqE",
+      "ifcEntityLabel": 34142,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Desk:Desk 100x80:956710"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Desk:Desk 100x80"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcFurnishingElement",
+      "ifcGuid": "2PxjBxBV183e6j7LJitfqF",
+      "ifcEntityLabel": 34207,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Desk:Desk 100x80:956711"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Desk:Desk 100x80"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcFurnishingElement",
+      "ifcGuid": "2PxjBxBV183e6j7LJitfq0",
+      "ifcEntityLabel": 34272,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Desk:Desk 100x80:956712"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Desk:Desk 100x80"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcFurnishingElement",
+      "ifcGuid": "2PxjBxBV183e6j7LJitfq1",
+      "ifcEntityLabel": 34337,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Desk:Desk 100x80:956713"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Desk:Desk 100x80"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcFurnishingElement",
+      "ifcGuid": "2PxjBxBV183e6j7LJitfqJ",
+      "ifcEntityLabel": 34402,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Desk:Desk 100x80:956731"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Desk:Desk 100x80"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcFurnishingElement",
+      "ifcGuid": "2PxjBxBV183e6j7LJitfqK",
+      "ifcEntityLabel": 34467,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Desk:Desk 100x80:956732"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Desk:Desk 100x80"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcFurnishingElement",
+      "ifcGuid": "2PxjBxBV183e6j7LJitfqL",
+      "ifcEntityLabel": 34532,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Desk:Desk 100x80:956733"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Desk:Desk 100x80"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcFurnishingElement",
+      "ifcGuid": "2PxjBxBV183e6j7LJitfqM",
+      "ifcEntityLabel": 34597,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Desk:Desk 100x80:956734"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Desk:Desk 100x80"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcFurnishingElement",
+      "ifcGuid": "2PxjBxBV183e6j7LJitfqN",
+      "ifcEntityLabel": 34662,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Desk:Desk 100x80:956735"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Desk:Desk 100x80"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcFurnishingElement",
+      "ifcGuid": "2PxjBxBV183e6j7LJitfsn",
+      "ifcEntityLabel": 57878,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Furniture_Chair_Desk_2:530x600x400mm:956825"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Furniture_Chair_Desk_2:530x600x400mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcFurnishingElement",
+      "ifcGuid": "2PxjBxBV183e6j7LJitfvi",
+      "ifcEntityLabel": 57973,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Furniture_Chair_Desk_2:530x600x400mm:956996"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Furniture_Chair_Desk_2:530x600x400mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcFurnishingElement",
+      "ifcGuid": "2PxjBxBV183e6j7LJitfvz",
+      "ifcEntityLabel": 58033,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Furniture_Chair_Desk_2:530x600x400mm:957013"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Furniture_Chair_Desk_2:530x600x400mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcFurnishingElement",
+      "ifcGuid": "2PxjBxBV183e6j7LJitfvE",
+      "ifcEntityLabel": 58093,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Furniture_Chair_Desk_2:530x600x400mm:957030"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Furniture_Chair_Desk_2:530x600x400mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcFurnishingElement",
+      "ifcGuid": "2PxjBxBV183e6j7LJitfvV",
+      "ifcEntityLabel": 58153,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Furniture_Chair_Desk_2:530x600x400mm:957047"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Furniture_Chair_Desk_2:530x600x400mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcFurnishingElement",
+      "ifcGuid": "2PxjBxBV183e6j7LJitfwr",
+      "ifcEntityLabel": 58213,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Furniture_Chair_Desk_2:530x600x400mm:957085"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Furniture_Chair_Desk_2:530x600x400mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcFurnishingElement",
+      "ifcGuid": "2PxjBxBV183e6j7LJitfwO",
+      "ifcEntityLabel": 58273,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Furniture_Chair_Desk_2:530x600x400mm:957104"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Furniture_Chair_Desk_2:530x600x400mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcFurnishingElement",
+      "ifcGuid": "2PxjBxBV183e6j7LJitfxf",
+      "ifcEntityLabel": 58333,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Furniture_Chair_Desk_2:530x600x400mm:957121"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Furniture_Chair_Desk_2:530x600x400mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcFurnishingElement",
+      "ifcGuid": "2PxjBxBV183e6j7LJitfxw",
+      "ifcEntityLabel": 58393,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Furniture_Chair_Desk_2:530x600x400mm:957138"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Furniture_Chair_Desk_2:530x600x400mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcFurnishingElement",
+      "ifcGuid": "2PxjBxBV183e6j7LJitfxD",
+      "ifcEntityLabel": 58453,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Furniture_Chair_Desk_2:530x600x400mm:957157"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Furniture_Chair_Desk_2:530x600x400mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcFurnishingElement",
+      "ifcGuid": "2PxjBxBV183e6j7LJitf$C",
+      "ifcEntityLabel": 81632,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Furniture_Chair_Desk_2:530x600x400mm:957412"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Furniture_Chair_Desk_2:530x600x400mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcFurnishingElement",
+      "ifcGuid": "2PxjBxBV183e6j7LJitf$D",
+      "ifcEntityLabel": 81700,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Furniture_Chair_Desk_2:530x600x400mm:957413"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Furniture_Chair_Desk_2:530x600x400mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcFurnishingElement",
+      "ifcGuid": "2PxjBxBV183e6j7LJitf$E",
+      "ifcEntityLabel": 81760,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Furniture_Chair_Desk_2:530x600x400mm:957414"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Furniture_Chair_Desk_2:530x600x400mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcFurnishingElement",
+      "ifcGuid": "2PxjBxBV183e6j7LJitf$F",
+      "ifcEntityLabel": 81820,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Furniture_Chair_Desk_2:530x600x400mm:957415"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Furniture_Chair_Desk_2:530x600x400mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcFurnishingElement",
+      "ifcGuid": "2PxjBxBV183e6j7LJitf$0",
+      "ifcEntityLabel": 81880,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Furniture_Chair_Desk_2:530x600x400mm:957416"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Furniture_Chair_Desk_2:530x600x400mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcFurnishingElement",
+      "ifcGuid": "2PxjBxBV183e6j7LJitfX4",
+      "ifcEntityLabel": 81940,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Furniture_Chair_Desk_2:530x600x400mm:957548"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Furniture_Chair_Desk_2:530x600x400mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcFurnishingElement",
+      "ifcGuid": "2PxjBxBV183e6j7LJitfX5",
+      "ifcEntityLabel": 82000,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Furniture_Chair_Desk_2:530x600x400mm:957549"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Furniture_Chair_Desk_2:530x600x400mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcFurnishingElement",
+      "ifcGuid": "2PxjBxBV183e6j7LJitfX6",
+      "ifcEntityLabel": 82060,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Furniture_Chair_Desk_2:530x600x400mm:957550"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Furniture_Chair_Desk_2:530x600x400mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcFurnishingElement",
+      "ifcGuid": "2PxjBxBV183e6j7LJitfX7",
+      "ifcEntityLabel": 82120,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Furniture_Chair_Desk_2:530x600x400mm:957551"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Furniture_Chair_Desk_2:530x600x400mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcFurnishingElement",
+      "ifcGuid": "2PxjBxBV183e6j7LJitfXO",
+      "ifcEntityLabel": 82180,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Furniture_Chair_Desk_2:530x600x400mm:957552"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Furniture_Chair_Desk_2:530x600x400mm"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcOpeningElement",
+      "ifcGuid": "2OBPgDlOz0DB$u1SR$GlT9",
+      "ifcEntityLabel": 140407,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Muro di base:Generic - 300mm:919773"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Opening"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcOpeningElement",
+      "ifcGuid": "2OBPgDlOz0DB$u1SR$GlTi",
+      "ifcEntityLabel": 140445,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Muro di base:Generic - 300mm:919773"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Opening"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcOpeningElement",
+      "ifcGuid": "1evipg2MH7OQvwN6Q5aNlz",
+      "ifcEntityLabel": 140474,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Doors_ExtDbl_Flush_Fire_Escape:1810x2200mm:946182:1"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Opening"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcOpeningElement",
+      "ifcGuid": "1evipg2MH7OQvwN6Q5aM7Z",
+      "ifcEntityLabel": 140518,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Muro di base:Generic - 300mm:919791"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Opening"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcOpeningElement",
+      "ifcGuid": "3NkI86N8r6oAltltd6ExqE",
+      "ifcEntityLabel": 140547,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Windows_Tpl_Plain:2500x1900mm:968557:1"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Opening"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcOpeningElement",
+      "ifcGuid": "3NkI86N8r6oAltltd6ExQZ",
+      "ifcEntityLabel": 140584,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Windows_Tpl_Plain:2500x1900mm:969920:1"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Opening"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcOpeningElement",
+      "ifcGuid": "1evipg2MH7OQvwN6Q5aM7D",
+      "ifcEntityLabel": 140628,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Muro di base:Generic - 300mm:919791"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Opening"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcOpeningElement",
+      "ifcGuid": "0D_bT8ef19LAE9mBQ1UQTm",
+      "ifcEntityLabel": 140657,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Doors_IntSgl_1:1010x2110mm:968233:1"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Opening"
+        }
+      ]
+    },
+    {
+      "ifcSystemIndex": -1,
+      "ifcStoreyIndex": -1,
+      "ifcSpaceIndex": -1,
+      "propertySets": [],
+      "ifcExpressTypeName": "IfcOpeningElement",
+      "ifcGuid": "0D_bT8ef19LAE9mBQ1UQSF",
+      "ifcEntityLabel": 140693,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Doors_IntSgl_1:1010x2110mm:968278:1"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Opening"
+        }
+      ]
+    }
+  ],
+  "systems": [
+    {
+      "ifcExpressTypeName": "IfcSystem",
+      "ifcGuid": "36rPknJw90wRCl3GfSBIUy",
+      "ifcEntityLabel": 140285,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Mechanical Supply Air"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Supply Air"
+        }
+      ]
+    },
+    {
+      "ifcExpressTypeName": "IfcSystem",
+      "ifcGuid": "36rPknJw90wRCl3GfSBIUK",
+      "ifcEntityLabel": 140294,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Mechanical Return Air"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Return Air"
+        }
+      ]
+    }
+  ],
+  "storeys": [
+    {
+      "Elevation": 300.0,
+      "ifcExpressTypeName": "IfcBuildingStorey",
+      "ifcGuid": "1XxXZlR7L40BDbToLm9VGH",
+      "ifcEntityLabel": 151,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Ceiling - Existing"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Livello:8mm Head"
+        }
+      ]
+    },
+    {
+      "Elevation": 450.0,
+      "ifcExpressTypeName": "IfcBuildingStorey",
+      "ifcGuid": "1XxXZlR7L40BDbToLmAvFI",
+      "ifcEntityLabel": 157,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Level 3"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Livello:8mm Head"
+        }
+      ]
+    },
+    {
+      "Elevation": 0.0,
+      "ifcExpressTypeName": "IfcBuildingStorey",
+      "ifcGuid": "1XxXZlR7L40BDbToLmAv1J",
+      "ifcEntityLabel": 139,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Rough Floor - Existing"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Livello:8mm Head"
+        }
+      ]
+    },
+    {
+      "Elevation": 600.0,
+      "ifcExpressTypeName": "IfcBuildingStorey",
+      "ifcGuid": "1XxXZlR7L40BDbToLm9VIL",
+      "ifcEntityLabel": 163,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Level 4"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Livello:8mm Head"
+        }
+      ]
+    },
+    {
+      "Elevation": 0.999999999999662,
+      "ifcExpressTypeName": "IfcBuildingStorey",
+      "ifcGuid": "1XxXZlR7L40BDbToLm9EZ8",
+      "ifcEntityLabel": 145,
+      "ifcInfo": [
+        {
+          "Name": "name",
+          "Value": "Floor - Existing"
+        },
+        {
+          "Name": "ObjectType",
+          "Value": "Livello:8mm Head"
+        }
+      ]
+    }
+  ]
+}
